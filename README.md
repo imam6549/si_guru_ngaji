@@ -1,1 +1,2 @@
-# si_guru_ngaji
+-Tujuan dari sistem ini adalah untuk membuat data guru ngaji dan juga data jumlah santri dari guru ngaji tersebut
+-data tersebut diambil dari data guru ngaji dan data santrinya
