@@ -59,7 +59,7 @@ $act = @$_GET['act'];
             <?php
             if (!isset($target) or $target == "home") {
                 echo "Hai, Selamat datang di Website";
-                // ========== star kontent mahasiswa ================
+                // ========== star kontent guru ngaji ================
             } elseif ($target == "guru_ngaji") {
                 if ($act == "tambah_guru_ngaji") {
                     echo $guru_ngaji->tambah();
